@@ -26,7 +26,7 @@
 ### 🔧 Projects & Tools I’ve Worked With:
 - 🤖 Sensor-based robotics projects using Arduino & Raspberry Pi  
 - 🧠 ML models for classification, prediction & basic CV tasks  
-- 🌐 Full-stack web apps with **HTML/CSS**, **JavaScript**, **Flask/Django**, and **React**
+- 🌐 Full-stack web apps with **HTML/CSS**, **JavaScript**, **SQL**, and **React**
 
 ---
 
