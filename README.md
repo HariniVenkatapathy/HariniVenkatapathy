@@ -35,8 +35,6 @@
 - 🧰 **RoboDK** – robotic simulation & offline programming  
 - ⚛️ **React.js** – creating dynamic UIs  
 - 🗃️ SQL optimization & system design  
-- 🛠️ Deployment, automation & CI/CD
-
 ---
 
 ### 🎀 Fun Little Things:
