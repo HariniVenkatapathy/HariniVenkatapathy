@@ -44,7 +44,7 @@
 ---
 
 ### 📫 Let's Be Friends!
-- 💼 [LinkedIn](https://www.linkedin.com/in/harini-venkat-045337299/) *(Update with your real link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harini-venkat-045337299/)
 - 📬 Email: *[harinivenkat1009@gmail.com]*  
 
 ---
